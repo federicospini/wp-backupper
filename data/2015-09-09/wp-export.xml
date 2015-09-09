@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.2.4" created="2015-09-08 14:56" -->
+<!-- generator="WordPress/4.2.4" created="2015-09-09 10:30" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>SITAC</title>
 	<link>http://www.sitac.it</link>
 	<description>Società italiana per il trattamento dell&#039;alcolismo e le sue sue complicanze</description>
-	<pubDate>Tue, 08 Sep 2015 14:56:47 +0000</pubDate>
+	<pubDate>Wed, 09 Sep 2015 10:30:37 +0000</pubDate>
 	<language>it-IT</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://www.sitac.it</wp:base_site_url>
@@ -11940,7 +11940,7 @@ Al progetto hanno collaborato più di 60 volontari nell’arco dell’anno. Al c
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>inspira_post_views_count</wp:meta_key>
-			<wp:meta_value><![CDATA[73]]></wp:meta_value>
+			<wp:meta_value><![CDATA[75]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
@@ -11964,7 +11964,7 @@ Al progetto hanno collaborato più di 60 volontari nell’arco dell’anno. Al c
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>inspira_post_views_count</wp:meta_key>
-			<wp:meta_value><![CDATA[73]]></wp:meta_value>
+			<wp:meta_value><![CDATA[75]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>slide_template</wp:meta_key>
@@ -12070,7 +12070,7 @@ Al progetto hanno collaborato più di 60 volontari nell’arco dell’anno. Al c
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>inspira_post_views_count</wp:meta_key>
-			<wp:meta_value><![CDATA[69]]></wp:meta_value>
+			<wp:meta_value><![CDATA[71]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
@@ -12094,7 +12094,7 @@ Al progetto hanno collaborato più di 60 volontari nell’arco dell’anno. Al c
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>inspira_post_views_count</wp:meta_key>
-			<wp:meta_value><![CDATA[69]]></wp:meta_value>
+			<wp:meta_value><![CDATA[71]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>slide_template</wp:meta_key>
@@ -12204,7 +12204,7 @@ La docenza ha avuto un alto gradimento da parte dei corsisti in quanto gli inseg
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>inspira_post_views_count</wp:meta_key>
-			<wp:meta_value><![CDATA[225]]></wp:meta_value>
+			<wp:meta_value><![CDATA[227]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
@@ -12228,7 +12228,7 @@ La docenza ha avuto un alto gradimento da parte dei corsisti in quanto gli inseg
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>inspira_post_views_count</wp:meta_key>
-			<wp:meta_value><![CDATA[225]]></wp:meta_value>
+			<wp:meta_value><![CDATA[227]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>slide_template</wp:meta_key>
@@ -12296,7 +12296,7 @@ La docenza ha avuto un alto gradimento da parte dei corsisti in quanto gli inseg
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>inspira_post_views_count</wp:meta_key>
-			<wp:meta_value><![CDATA[121]]></wp:meta_value>
+			<wp:meta_value><![CDATA[123]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
@@ -12316,7 +12316,7 @@ La docenza ha avuto un alto gradimento da parte dei corsisti in quanto gli inseg
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>inspira_post_views_count</wp:meta_key>
-			<wp:meta_value><![CDATA[121]]></wp:meta_value>
+			<wp:meta_value><![CDATA[123]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_thumbnail_id</wp:meta_key>
@@ -12439,7 +12439,7 @@ Relativamente al canale Twitter, sono stati spediti 114 tweet, sono stati seguit
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>inspira_post_views_count</wp:meta_key>
-			<wp:meta_value><![CDATA[163]]></wp:meta_value>
+			<wp:meta_value><![CDATA[165]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
@@ -12463,7 +12463,7 @@ Relativamente al canale Twitter, sono stati spediti 114 tweet, sono stati seguit
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>inspira_post_views_count</wp:meta_key>
-			<wp:meta_value><![CDATA[163]]></wp:meta_value>
+			<wp:meta_value><![CDATA[165]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>slide_template</wp:meta_key>
@@ -13032,7 +13032,7 @@ This e-mail was sent from a contact form on Inspira (http://demo.vegatheme.com/i
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>inspira_post_views_count</wp:meta_key>
-			<wp:meta_value><![CDATA[24]]></wp:meta_value>
+			<wp:meta_value><![CDATA[26]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -13075,7 +13075,7 @@ This e-mail was sent from a contact form on Inspira (http://demo.vegatheme.com/i
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>inspira_post_views_count</wp:meta_key>
-			<wp:meta_value><![CDATA[31]]></wp:meta_value>
+			<wp:meta_value><![CDATA[32]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -13260,7 +13260,7 @@ Titolare dei trattamenti di dati personali è l'associazione SITAC.]]></content:
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>inspira_post_views_count</wp:meta_key>
-			<wp:meta_value><![CDATA[61]]></wp:meta_value>
+			<wp:meta_value><![CDATA[63]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_thumbnail_id</wp:meta_key>
