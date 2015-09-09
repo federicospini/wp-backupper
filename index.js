@@ -128,6 +128,7 @@ var end = function (err) {
 }
 
 var b = new Backupper(options);
-b.run(end);
+// b.run(end);
+b.runFoultTolerant(end);
 
 
