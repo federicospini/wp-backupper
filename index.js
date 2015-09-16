@@ -22,7 +22,7 @@ var options_sitac = {
   domain: 'www.sitac.it',
   // path: '~/backups/crarl.it/',
   path: './data/',
-  urls_c: urls_sitac,
+  urls: urls_sitac,
   login: {
     url: 'http://www.sitac.it/wp-login.php?redirect_to=http%3A%2F%2Fwww.sitac.it%2Fwp-admin%2F&reauth=1',
     username: process.env.USERNAME,
@@ -79,23 +79,38 @@ var end = function (err) {
 
 var backup_sitac = function (done) {
   var sitac_b = new Backupper(options_sitac);
-  sitac_b.runFoultTolerant(done);
+  // sitac_b.runFoultTolerant(done);
+  sitac_b.runFilesFoultTolerant(done);
 };
 
 var backup_crarl = function (done) {
   var crarl_b = new Backupper(options_crarl);
-  crarl_b.runFoultTolerant(done);
+  // crarl_b.runFoultTolerant(done);
+  crarl_b.runFilesFoultTolerant(done);
 };
 
-async.waterfall([
-  backup_sitac,
-  backup_crarl
-], end);
+
+
+backup_crarl(end);
+
+// async.waterfall([
+//   backup_sitac,
+//   backup_crarl
+// ], end);
 
 // var CronJob = require('cron').CronJob;
 // var sitac_job = new CronJob({
 //   cronTime: '00 30 23 * * 7',
 //   onTick: backup_sitac,
+//   start: false,
+//   timeZone: "Europe/Rome"
+// });
+// job.start();
+
+// var CronJob = require('cron').CronJob;
+// var sitac_job = new CronJob({
+//   cronTime: '00 45 23 * * 7',
+//   onTick: backup_crarl,
 //   start: false,
 //   timeZone: "Europe/Rome"
 // });
